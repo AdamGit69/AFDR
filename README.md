@@ -14,7 +14,7 @@ Anyway, to get this running, you'll need the BOM integration installed (https://
 and
 "sensor.YOURLOCATION_fire_danger_5"
 
-To use these entities (if you have BOM installed already, you should have these) you just need to copy and past the code below into a new "manual card" (add new card/right down the bottom), editing your location/sensor name and save the images in your HA www directory.
+To use these entities (if you have BOM installed already, you should have these) you just need to copy and past the code from the YAML file into a new "manual card" (add new card/right down the bottom), editing your location/sensor name and save the images in your HA www directory.
 
 The FDR images need to be saved (and as stated, saved into your HA www folder):
 
